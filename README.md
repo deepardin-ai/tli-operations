@@ -8,5 +8,5 @@ This repo tracks operational tasks for the Virtual Business Administration Manag
 - Recruiting Pipeline
 - HR Process Automation
 
-## Status
+## Status – Q2 2026
 Initial setup – learning GitHub for team coordination.
